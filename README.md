@@ -2,7 +2,7 @@
 
 **Harmonica Omega** è la dashboard professionale definitiva per lo studio, l'improvvisazione e la teoria dell'armonica diatonica. Sviluppata con un'interfaccia "Black & Gold" unificata e moderna, offre strumenti avanzati per armonicisti di ogni livello, dal principiante al professionista.
 
-🔗 **[VAI ALLA WEB APP](https://tuonome.github.io/Harmonica-Omega/)**
+🔗 **[VAI ALLA WEB APP](https://savetave.github.io/Harmonica-Omega/)**
 
 ---
 
